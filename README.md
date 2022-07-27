@@ -1,2 +1,2 @@
-# Projeto-barbearia-alura
+# Repositório de um projeto da plataforma ALURA.
 Projeto Barbearia Alura (ESTUDO)
