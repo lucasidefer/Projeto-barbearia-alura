@@ -1,2 +1,2 @@
-# Repositório de um projeto da plataforma ALURA.
-Projeto Barbearia Alura (ESTUDO)
+# Projeto Barbearia Alura (ESTUDO)
+Repositório de um projeto da plataforma ALURA.
